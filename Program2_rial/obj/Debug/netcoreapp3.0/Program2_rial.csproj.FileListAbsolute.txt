@@ -1,0 +1,10 @@
+C:\Users\MiGue\source\repos\Program2_rial\bin\Debug\netcoreapp3.0\Program2_rial.exe
+C:\Users\MiGue\source\repos\Program2_rial\bin\Debug\netcoreapp3.0\Program2_rial.deps.json
+C:\Users\MiGue\source\repos\Program2_rial\bin\Debug\netcoreapp3.0\Program2_rial.runtimeconfig.json
+C:\Users\MiGue\source\repos\Program2_rial\bin\Debug\netcoreapp3.0\Program2_rial.runtimeconfig.dev.json
+C:\Users\MiGue\source\repos\Program2_rial\bin\Debug\netcoreapp3.0\Program2_rial.dll
+C:\Users\MiGue\source\repos\Program2_rial\bin\Debug\netcoreapp3.0\Program2_rial.pdb
+C:\Users\MiGue\source\repos\Program2_rial\obj\Debug\netcoreapp3.0\Program2_rial.AssemblyInfoInputs.cache
+C:\Users\MiGue\source\repos\Program2_rial\obj\Debug\netcoreapp3.0\Program2_rial.AssemblyInfo.cs
+C:\Users\MiGue\source\repos\Program2_rial\obj\Debug\netcoreapp3.0\Program2_rial.dll
+C:\Users\MiGue\source\repos\Program2_rial\obj\Debug\netcoreapp3.0\Program2_rial.pdb

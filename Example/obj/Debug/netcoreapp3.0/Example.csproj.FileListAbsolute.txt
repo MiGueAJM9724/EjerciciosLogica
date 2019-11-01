@@ -1,0 +1,11 @@
+C:\Users\MiGue\source\repos\Example\bin\Debug\netcoreapp3.0\Example.exe
+C:\Users\MiGue\source\repos\Example\bin\Debug\netcoreapp3.0\Example.deps.json
+C:\Users\MiGue\source\repos\Example\bin\Debug\netcoreapp3.0\Example.runtimeconfig.json
+C:\Users\MiGue\source\repos\Example\bin\Debug\netcoreapp3.0\Example.runtimeconfig.dev.json
+C:\Users\MiGue\source\repos\Example\bin\Debug\netcoreapp3.0\Example.dll
+C:\Users\MiGue\source\repos\Example\bin\Debug\netcoreapp3.0\Example.pdb
+C:\Users\MiGue\source\repos\Example\obj\Debug\netcoreapp3.0\Example.csprojAssemblyReference.cache
+C:\Users\MiGue\source\repos\Example\obj\Debug\netcoreapp3.0\Example.AssemblyInfoInputs.cache
+C:\Users\MiGue\source\repos\Example\obj\Debug\netcoreapp3.0\Example.AssemblyInfo.cs
+C:\Users\MiGue\source\repos\Example\obj\Debug\netcoreapp3.0\Example.dll
+C:\Users\MiGue\source\repos\Example\obj\Debug\netcoreapp3.0\Example.pdb

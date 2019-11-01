@@ -1,0 +1,11 @@
+C:\Users\MiGue\source\repos\Progama2\bin\Debug\netcoreapp3.0\Progama2.exe
+C:\Users\MiGue\source\repos\Progama2\bin\Debug\netcoreapp3.0\Progama2.deps.json
+C:\Users\MiGue\source\repos\Progama2\bin\Debug\netcoreapp3.0\Progama2.runtimeconfig.json
+C:\Users\MiGue\source\repos\Progama2\bin\Debug\netcoreapp3.0\Progama2.runtimeconfig.dev.json
+C:\Users\MiGue\source\repos\Progama2\bin\Debug\netcoreapp3.0\Progama2.dll
+C:\Users\MiGue\source\repos\Progama2\bin\Debug\netcoreapp3.0\Progama2.pdb
+C:\Users\MiGue\source\repos\Progama2\obj\Debug\netcoreapp3.0\Progama2.csprojAssemblyReference.cache
+C:\Users\MiGue\source\repos\Progama2\obj\Debug\netcoreapp3.0\Progama2.AssemblyInfoInputs.cache
+C:\Users\MiGue\source\repos\Progama2\obj\Debug\netcoreapp3.0\Progama2.AssemblyInfo.cs
+C:\Users\MiGue\source\repos\Progama2\obj\Debug\netcoreapp3.0\Progama2.dll
+C:\Users\MiGue\source\repos\Progama2\obj\Debug\netcoreapp3.0\Progama2.pdb
